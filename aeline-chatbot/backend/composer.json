@@ -1,0 +1,8 @@
+{
+    "name": "aeline/chat-backend",
+    "description": "Backend for the website chatbot. Keeps the Claude API key on the server.",
+    "require": {
+        "php": ">=8.1",
+        "anthropic-ai/sdk": "*"
+    }
+}

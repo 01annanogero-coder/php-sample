@@ -1,0 +1,5 @@
+# Apache: the only file the browser may call in this folder is chat.php.
+Require all denied
+<Files "chat.php">
+    Require all granted
+</Files>
